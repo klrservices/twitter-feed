@@ -52,5 +52,5 @@ spec:
   selector:
     app: twitter-feed
     color: blue
-  type: ClusterIP
+  type: LoadBalancer
 ---
